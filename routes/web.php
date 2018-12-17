@@ -11,4 +11,6 @@
 |
 */
 
+Route::get('/', 'DefaultController@home')->name('home');
+
 Route::resource('projects', 'ProjectController');
