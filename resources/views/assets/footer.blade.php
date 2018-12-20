@@ -3,11 +3,9 @@
         <div class="row mb-3">
             <div class="col-md-12 text-center">
                 <p>
-                    <a href="#" class="social-item"><span class="icon-facebook2"></span></a>
-                    <a href="#" class="social-item"><span class="icon-twitter"></span></a>
-                    <a href="#" class="social-item"><span class="icon-instagram2"></span></a>
-                    <a href="#" class="social-item"><span class="icon-linkedin2"></span></a>
-                    <a href="#" class="social-item"><span class="icon-vimeo"></span></a>
+                    <a href="https://twitter.com/taoberquer" class="social-item"><span class="icon-twitter"></span></a>
+                    <a href="https://github.com/taoberquer/" class="social-item"><span class="icon-github"></span></a>
+                    <a href="https://www.linkedin.com/in/taopol-berquer-b52067146/" class="social-item"><span class="icon-linkedin2"></span></a>
                 </p>
             </div>
         </div>

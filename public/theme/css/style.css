@@ -1,3 +1,8 @@
+.single-portfolio:hover .preview{
+  background: url(../images/preview.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
 body {
   background: #fff;
   color: #798a9a;

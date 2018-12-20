@@ -5,15 +5,12 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <a class="navbar-brand" href="index.html">Alias</a>
+        <a class="navbar-brand" href="{{ route('home') }}">Tao BERQUER</a>
         <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample09">
             <ul class="navbar-nav">
-                <li class="nav-item"><a class="nav-link" href="#section-home">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="#section-about">About</a></li>
-                <li class="nav-item"><a class="nav-link" href="#section-services">Services</a></li>
+                <li class="nav-item"><a class="nav-link" href="#section-home">Accueil</a></li>
+                <li class="nav-item"><a class="nav-link" href="#section-about">Qui suis-je</a></li>
                 <li class="nav-item"><a class="nav-link" href="#section-portfolio">Portfolio</a></li>
-                <li class="nav-item"><a class="nav-link" href="#section-resume">Resume</a></li>
-                <li class="nav-item"><a class="nav-link" href="#section-blog">Blog</a></li>
                 <li class="nav-item"><a class="nav-link" href="#section-contact">Contact</a></li>
             </ul>
         </div>
