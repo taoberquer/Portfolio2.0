@@ -28,8 +28,8 @@
                     <div class="section-heading">
                         <h2>Qui suis-je <strong>?</strong></h2>
                     </div>
-                    <p class="lead">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                    <p class="mb-5">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                    <p class="lead">1,2,3 soleil</p>
+                    <p class="mb-5">Kebab</p>
 
                     <p>
                         <a href="#section-contact" class="btn btn-primary px-4 py-2 btn-sm smoothscroll">Contactez moi</a>
@@ -136,7 +136,7 @@
                                 <div class="overlay overlay-bg"></div>
                                 <img class="image img-fluid" src="{{ asset('theme/images/Orion_wifi.svg') }}" alt="">
                             </div>
-                            <a href="images/p1.jpg" class="img-pop-up">
+                            <a href="{{ route('wifi_project') }}" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex preview"></div>
                                 </div>
@@ -153,7 +153,7 @@
                                 <div class="overlay overlay-bg"></div>
                                 <img class="image img-fluid" src="{{ asset('theme/images/Orion_car.svg') }}" alt="">
                             </div>
-                            <a href="images/p2.jpg" class="img-pop-up">
+                            <a href="{{ route('parking_project') }}" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex preview"></div>
                                 </div>
@@ -170,7 +170,7 @@
                                 <div class="overlay overlay-bg"></div>
                                 <img class="image img-fluid" src="{{ asset('theme/images/Orion_rss.svg') }}" alt="">
                             </div>
-                            <a href="images/p3.jpg" class="img-pop-up">
+                            <a href="{{ route('rss_project') }}" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex preview"></div>
                                 </div>
